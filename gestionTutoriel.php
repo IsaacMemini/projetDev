@@ -17,6 +17,7 @@
                 <span>IdrissaDiop</span>   
             </span>
             <ul class="fonctionnalite">
+                <li><i class="fa-solid fa-plus"></i>ajouter expertise</li>
                 <li><i class="fa-solid fa-right-from-bracket"></i>déconnexion</li>
             </ul>
         </div>
